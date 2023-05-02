@@ -26,5 +26,4 @@ const UserList: React.FC = () => {
 		</div>
 	)
 }
-
 export default UserList
